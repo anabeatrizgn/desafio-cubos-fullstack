@@ -1,0 +1,32 @@
+body {
+  background-color: #e5e5e5;
+}
+
+.bodyprodutos {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.main-produtos {
+  margin-top: 1em;
+  margin-left: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8em;
+}
+
+h1 {
+  font-family: "Roboto";
+  font-size: 48px;
+  font-weight: 400;
+}
+
+.card-produto {
+  display: flex;
+  gap: 1em;
+  width: 85em;
+  overflow: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}

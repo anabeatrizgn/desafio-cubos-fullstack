@@ -1,0 +1,24 @@
+.bodyeditarproduto {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.main-editar {
+  margin-top: 1em;
+  margin-left: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8em;
+  width: 100%;
+  height: 100%;
+}
+
+.imagem-produto {
+  height: 25.125em;
+  width: 19.25em;
+  position: absolute;
+  top: 6em;
+  right: 30em;
+  border-radius: 1em;
+}

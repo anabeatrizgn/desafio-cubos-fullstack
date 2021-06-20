@@ -1,0 +1,15 @@
+.bodyeditarperfil {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.main-editarperfil {
+  margin-top: 1em;
+  margin-left: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8em;
+  width: 100%;
+  height: 100%;
+}

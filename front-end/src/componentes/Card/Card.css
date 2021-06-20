@@ -1,0 +1,11 @@
+.deletar-produto {
+  position: absolute;
+  z-index: 2;
+  top: 2em;
+  left: 2em;
+  background-color: #ff505f;
+  padding: 0.8em;
+  border-radius: 50%;
+  outline: none;
+  border: none;
+}
